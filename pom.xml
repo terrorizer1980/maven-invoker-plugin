@@ -26,7 +26,7 @@ under the License.
     <artifactId>maven-plugins</artifactId>
     <groupId>org.apache.maven.plugins</groupId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>maven-invoker-plugin</artifactId>
@@ -148,7 +148,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-common-artifact-filters</artifactId>
-      <version>3.2.0</version>
+      <version>3.3.0</version>
       <scope>compile</scope>
     </dependency>
     <!-- Doxia -->
